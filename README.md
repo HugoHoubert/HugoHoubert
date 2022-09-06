@@ -10,6 +10,6 @@
 
 ## <h1 class="center">Stats Github :</h1>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=ToKiPoYT&theme=cobalt&show_icons=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=HugoHoubert&theme=cobalt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToKiPoYT&theme=cobalt&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoHoubert&theme=cobalt&layout=compact)
