@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 class="center">Hey, Why are you looking here ? 😂</h1>
 
-<!--
-**ToKiPoYT/ToKiPoYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    I am currently in my 2nd year at Epitech Technologie
+    I learned C / C++ at school and Angular/CLI in internship
+    
+## <h1 class="center">Contact :</h1>
 
-Here are some ideas to get you started:
+- [Linkedin](https://www.linkedin.com/in/hugo-houbert-218b3222a/) Hugo Houbert
+- [Outlook] hugo.houbert@epitech.eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <h1 class="center">Stats Github :</h1>
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=ToKiPoYT&theme=cobalt&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToKiPoYT&theme=cobalt&layout=compact)
