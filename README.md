@@ -1,6 +1,6 @@
 <h1 class="center">Hey, Why are you looking here ? 😂</h1>
 
-    I am currently in my 4rd year at Epitech Technologie
+    I am currently in my 5th year at Epitech Technologie
     I learned C / C++ at school and Angular/CLI in internship
     
 ## <h1 class="center">Contact :</h1>
